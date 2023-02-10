@@ -34,8 +34,6 @@ const OutBox = () => {
       </Box>
     </div>
     
-    
-    
 
   )
 }
